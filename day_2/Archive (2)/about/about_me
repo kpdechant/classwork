@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<title>Kate Portfolio</title>
+	<meta charset="utf-8">
+</head>
+<body>
+		<nav>
+			<strong>About Me</strong> | <a href="portfolio.html">Portfolio</a>
+		</nav>	
+		<center><h1>KAITLYN MCCARTHY</h1></center>
+		<hr>
+		<div>
+	<h3>I ENJOY LIFE AS A DEVELOPER</h3>
+	<p>I'm Joe Johnson, a Developer based in NYC. I have ten years of experience in the graphic design world, specializing in the creation of responsive websites. </P>
+	<img src=" ">
+	<hr>
+	<nav>
+		<A HREF="www.facebook.com">Facebook</A>
+	</nav>
+
+&nbsp;
+
+	<hr>
+	</div>
+<A HREF="www.facebook.com">Facebook</A>
+</head>
+<body>
+
+</body>
